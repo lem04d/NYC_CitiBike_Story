@@ -1,7 +1,5 @@
 # NYC CitiBike Ridership Analysis
 
-The written analysis has the following:
-
 # Overview of the statistical analysis:
 Purpose of the analysis is well defined. (5 pt)
 
