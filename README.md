@@ -1,4 +1,4 @@
-# NYC_CitiBike_Story
+# NYC CitiBike Ridership Analysis
 
 The written analysis has the following:
 
