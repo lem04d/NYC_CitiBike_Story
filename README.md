@@ -6,6 +6,9 @@ The purpose of this analysis is to use the CitiBike user data from New York City
 # Results:
 Here is a link to the Tableau story that contains the below visualizations: [link to dashboard](https://public.tableau.com/views/NYCCitiBikeworkbook/NYCCItiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
+
+
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/user_breakdown_by_gender.PNG)
 
 Here is a breakdown of all users of Citibike by gender. You will notice 'male' is the gender provided by most of the users. 
@@ -15,19 +18,24 @@ Here is a breakdown of all users of Citibike by gender. You will notice 'male' i
 Here is an overview of how long the average user is checking out the bikes. You will notice that most trips are less than 20 minutes in length. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/checkout_times_by_gender.PNG)
-#This is another view of the length of time that the bikes are checked out broken down by gender. You will notice a similar pattern that most are using the bikes for 20 minutes or less but the users who identify themselves as 'male' will use the bikes slightly longer than the other genders. 
+
+This is another view of the length of time that the bikes are checked out broken down by gender. You will notice a similar pattern that most are using the bikes for 20 minutes or less but the users who identify themselves as 'male' will use the bikes slightly longer than the other genders. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/starting_locations.PNG)
-#In this image, you will see that the largest concentration of starting locations is in Lower Manhattan. 
+
+In this image, you will see that the largest concentration of starting locations is in Lower Manhattan. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_gender.PNG)
-#This is a heatmap of what day of the week each gender uses the bikes the most. Thursday seems to be the most popular day. 
+
+This is a heatmap of what day of the week each gender uses the bikes the most. Thursday seems to be the most popular day. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_weekday.PNG)
-#This is a heatmap showing that rush hour during the week is the most popular time for use of the bikes. Suggesting people like to use them for tranportation to/from work. 
+
+This is a heatmap showing that rush hour during the week is the most popular time for use of the bikes. Suggesting people like to use them for tranportation to/from work. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_gender_weekday.PNG)
-#This heatmap is like the one above, broken down by gender. Another visualization showing that male users are the most frequent. 
+
+This heatmap is like the one above, broken down by gender. Another visualization showing that male users are the most frequent. 
 
 
 # Summary:
