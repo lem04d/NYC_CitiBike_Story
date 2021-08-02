@@ -1,7 +1,7 @@
 # NYC CitiBike Ridership Analysis
 
 # Overview of the statistical analysis:
-Purpose of the analysis is well defined. (5 pt)
+The purpose of this analysis is to use the CitiBike user data from New York City to present to key stakeholders that the same program in Des Moines will also be successful. I have created visual presentations of the data broken down by time, gender, and location to show the peak usage and who is using the CitiBikes.   
 
 # Results:
 [link to dashboard](https://public.tableau.com/views/NYCCitiBikeworkbook/NYCCItiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
