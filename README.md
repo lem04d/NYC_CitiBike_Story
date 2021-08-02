@@ -5,6 +5,13 @@ The purpose of this analysis is to use the CitiBike user data from New York City
 
 # Results:
 [link to dashboard](https://public.tableau.com/views/NYCCitiBikeworkbook/NYCCItiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/user_breakdown_by_gender.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/checkout_times_for_users.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/checkout_times_by_gender.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/starting_locations.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_gender.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_weekday.PNG)
+![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/trips_by_gender_weekday.PNG)
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
