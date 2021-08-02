@@ -7,10 +7,12 @@ The purpose of this analysis is to use the CitiBike user data from New York City
 Here is a link to the Tableau story that contains the below visualizations: [link to dashboard](https://public.tableau.com/views/NYCCitiBikeworkbook/NYCCItiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/user_breakdown_by_gender.PNG)
-#Here is a breakdown of all users of Citibike by gender. You will notice 'male' is the gender provided by most of the users. 
+
+Here is a breakdown of all users of Citibike by gender. You will notice 'male' is the gender provided by most of the users. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/checkout_times_for_users.PNG)
-#Here is an overview of how long the average user is checking out the bikes. You will notice that most trips are less than 20 minutes in length. 
+
+Here is an overview of how long the average user is checking out the bikes. You will notice that most trips are less than 20 minutes in length. 
 
 ![image](https://github.com/lem04d/NYC_CitiBike_Story/blob/main/checkout_times_by_gender.PNG)
 #This is another view of the length of time that the bikes are checked out broken down by gender. You will notice a similar pattern that most are using the bikes for 20 minutes or less but the users who identify themselves as 'male' will use the bikes slightly longer than the other genders. 
